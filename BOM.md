@@ -13,12 +13,11 @@
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
 | [PCB](https://jlcpcb.com/) | PCB | 1 | $4.00 | $4.00 | [JLCPCB](https://jlcpcb.com/) |
-| [OLED 0.96](https://botland.com.pl/wyswietlacze-i-ekrany/8866-wyswietlacz-oled-niebieski-graficzny-096-128x64px-i2c-niebieski-5904422337421.html) | OLED display | 1 | $3.81 | $3.81 | [botland](https://botland.com.pl/wyswietlacze-i-ekrany/8866-wyswietlacz-oled-niebieski-graficzny-096-128x64px-i2c-niebieski-5904422337421.html) |
 | [MX Switches](https://botland.com.pl/przelaczniki-przyciskowe-i-elektryczne/22205-kailh-mechanical-key-switches-clicky-maly-przycisk-mechaniczny-niebieski-1szt-adafruit-5123.html) | Switches to click buttons | 2 | $1.51 | $3.02 | [botland](https://botland.com.pl/przelaczniki-przyciskowe-i-elektryczne/22205-kailh-mechanical-key-switches-clicky-maly-przycisk-mechaniczny-niebieski-1szt-adafruit-5123.html) |
 | [DHT11](https://botland.com.pl/czujniki-multifunkcyjne/9301-czujnik-temperatury-i-wilgotnosci-dht11-50c-5904422372668.html) | Temperature sensor | 1 | $3.25 | $3.25 | [botland](https://botland.com.pl/czujniki-multifunkcyjne/9301-czujnik-temperatury-i-wilgotnosci-dht11-50c-5904422372668.html) |
 | [XIAO ESP32-C3](https://botland.com.pl/xiao/21859-seeed-xiao-esp32-c3-wifibluetooth-seeedstudio-113991054.html) | ESP32 | 1 | $6.63 | $6.63 | [botland](https://botland.com.pl/xiao/21859-seeed-xiao-esp32-c3-wifibluetooth-seeedstudio-113991054.html) |
-| **Parts subtotal** | — | — | — | **$20.71** | — |
+| **Parts subtotal** | — | — | — | **$16.90** | — |
 | **Tax & shipping** | — | — | — | **$7.78** | — |
-| **Total** | — | — | — | **$28.49** | — |
+| **Total** | — | — | — | **$24.68** | — |
 
-$1.51 left of the tier's funding.
+$5.32 left of the tier's funding.
