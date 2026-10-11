@@ -18,7 +18,7 @@
 | [DHT11](https://botland.com.pl/czujniki-multifunkcyjne/9301-czujnik-temperatury-i-wilgotnosci-dht11-50c-5904422372668.html) | Temperature sensor | 1 | $3.25 | $3.25 | [botland](https://botland.com.pl/czujniki-multifunkcyjne/9301-czujnik-temperatury-i-wilgotnosci-dht11-50c-5904422372668.html) |
 | [XIAO ESP32-C3](https://botland.com.pl/xiao/21859-seeed-xiao-esp32-c3-wifibluetooth-seeedstudio-113991054.html) | ESP32 | 1 | $6.63 | $6.63 | [botland](https://botland.com.pl/xiao/21859-seeed-xiao-esp32-c3-wifibluetooth-seeedstudio-113991054.html) |
 | **Parts subtotal** | — | — | — | **$20.71** | — |
-| **Tax & shipping** | — | — | — | **$5.48** | — |
-| **Total** | — | — | — | **$26.19** | — |
+| **Tax & shipping** | — | — | — | **$7.78** | — |
+| **Total** | — | — | — | **$28.49** | — |
 
-$3.81 left of the tier's funding.
+$1.51 left of the tier's funding.
