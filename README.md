@@ -2,7 +2,7 @@
 
 A homemade portable Tamagotchi. Built using the Half-Life guide from Hack Club.
 
-![Zrzut ekranu_20261010_125132.png](imgs/Zrzut ekranu_20261010_125132.png)
+![alt text](<imgs/Zrzut ekranu_20261010_125132.png>)
 
 ## Why this?
 
