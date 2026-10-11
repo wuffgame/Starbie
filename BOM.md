@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [PCB](https://jlcpcb.com/) | PCB | 1 | $4.00 | $4.00 | [JLCPCB](https://jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$4.00** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$4.00** | — |
+| **Tax & shipping** | — | — | — | **$5.48** | — |
+| **Total** | — | — | — | **$9.48** | — |
 
-$26.00 left of the tier's funding.
+$20.52 left of the tier's funding.
