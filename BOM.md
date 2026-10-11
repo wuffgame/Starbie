@@ -13,10 +13,9 @@
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
 | [PCB](https://jlcpcb.com/) | PCB | 1 | $4.00 | $4.00 | [JLCPCB](https://jlcpcb.com/) |
-| [DHT11](https://botland.com.pl/czujniki-multifunkcyjne/9301-czujnik-temperatury-i-wilgotnosci-dht11-50c-5904422372668.html) | Temperature sensor | 1 | $3.25 | $3.25 | [botland](https://botland.com.pl/czujniki-multifunkcyjne/9301-czujnik-temperatury-i-wilgotnosci-dht11-50c-5904422372668.html) |
 | [XIAO ESP32-C3](https://botland.com.pl/xiao/21859-seeed-xiao-esp32-c3-wifibluetooth-seeedstudio-113991054.html) | ESP32 | 1 | $6.63 | $6.63 | [botland](https://botland.com.pl/xiao/21859-seeed-xiao-esp32-c3-wifibluetooth-seeedstudio-113991054.html) |
-| **Parts subtotal** | — | — | — | **$13.88** | — |
+| **Parts subtotal** | — | — | — | **$10.63** | — |
 | **Tax & shipping** | — | — | — | **$7.78** | — |
-| **Total** | — | — | — | **$21.66** | — |
+| **Total** | — | — | — | **$18.41** | — |
 
-$8.34 left of the tier's funding.
+$11.59 left of the tier's funding.
